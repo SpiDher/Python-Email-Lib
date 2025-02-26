@@ -3,6 +3,7 @@
 ## Overview
 Email Lib is a simple Python library for sending emails using SMTP and rendering email templates with Jinja2. It provides a clean and modular way to handle email functionality in your projects.
 
+
 ## Features
 - Dynamic email rendering using Jinja2 templates.
 - Easy SMTP configuration for sending emails.
@@ -61,7 +62,8 @@ Ensure you configure SMTP settings correctly before sending emails:
 - **smtp_host**: Your SMTP server (e.g., `smtp.gmail.com` for Gmail).
 - **smtp_user**: Your email address used for authentication.
 - **smtp_pass**: Your email account password or app-specific password.
-
+##Pypi Link
+https://pypi.org/project/pyemaillib/
 ## Contributing
 Feel free to submit pull requests or open issues for improvements.
 
