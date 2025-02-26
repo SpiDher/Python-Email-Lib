@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pyemaillib"
-version = "0.1.0"
+version = "0.1.1"
 authors = [
     { name="Peniel Ben", email="penivera655@gmail.com" }
 ]
