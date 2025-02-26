@@ -62,8 +62,11 @@ Ensure you configure SMTP settings correctly before sending emails:
 - **smtp_host**: Your SMTP server (e.g., `smtp.gmail.com` for Gmail).
 - **smtp_user**: Your email address used for authentication.
 - **smtp_pass**: Your email account password or app-specific password.
-##Pypi Link
+
+## Pypi Link
 https://pypi.org/project/pyemaillib/
+
+
 ## Contributing
 Feel free to submit pull requests or open issues for improvements.
 
