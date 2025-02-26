@@ -10,6 +10,7 @@ __pycache__/
 .Python
 build/
 develop-eggs/
+pyemaillib.egg-info/
 dist/
 downloads/
 eggs/
